@@ -42,6 +42,7 @@ We begun by taking a statewise distribution of the reviews. We then separated al
 - National reviews: reviews about an american beer from a different state
 - Foreign reviews: reviews about beers coming from outside of the USA
 
+[NAME] API allows us to easily compute the distance between two locations on earth. We take advantage of it by computing the distance between all breweries and US states. 
 INSERT PLOT AND TALK ABOUT IT
 
 As we can see on the plot, California is the only state with more local than national reviews. All other states have a majority of national reviews with small portions of local and foreign ones. However, what interests us is the evolution over time of this distribution. After normalizing the monthly reviews' counts, we get these results:
@@ -55,11 +56,21 @@ INSERT PLOT
 The average distance is also following this trend, with a tendency to be reduced with time. We can see two large outliers: Alaska and Hawaï. This is no suprise, as they are quite far away from all other american state and the beers would have to travel a long distance from the continental USA to reach them.
 
 ## Why does the average distance travaled by beers decrease?
+In this part we explore different hypothesis that could explain the noticed decrease in distance traveled by beers. Despite it being due to various factors, some are well correlated.
+### Effect of climate change attitude
+Another factor that could partly explain the more local consumption of beers in US states is the attitude of citizens about climate change.
+
+[INSERT PLOT WITH US CITIZEN ATTITUDE TOWARDS CLIMATE CHANGE]
+
+[EXPLAIN IF THERE IS A CORRELATION OR NOT?]
+
+### Effect of patriotism on local consumption
 
 ### Evolution of breweries' number
+In the original dataset, we have acces to the breweries names and location, this allows us to determine the evolution of number of active breweries in each US state. By looking at the plot below, we notice that there is a [AAAAAAAAAAAAAAAAAAAA] of local breweries.
 
+[INSERT PLOT OF LOCAL BREWERIES NUMBER PER YEAR OR MONTH]
 
-### Effect of climate change attitude
-
+[ANALYSE UN PEU PLUS DéTAILLéE DU PLOT]
 
 # Conclusion

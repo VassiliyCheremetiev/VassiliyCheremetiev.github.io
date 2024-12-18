@@ -54,11 +54,12 @@ INSERT PLOT
 
 The average distance is also following this trend, with a tendency to be reduced with time. We can see two large outliers: Alaska and Hawaï. This is no suprise, as they are quite far away from all other american state and the beers would have to travel a long distance from the continental USA to reach them.
 
+### Why does the average distance travaled by beers decrease?
 
-### Evolution of breweries' number
+## Evolution of breweries' number
 
 
-### Effect of climate change attitude
+## Effect of climate change attitude
 
 
 ### Conclusion

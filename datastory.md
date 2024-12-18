@@ -26,7 +26,7 @@ The datasets can be found by following [this link](https://drive.google.com/driv
 ## Focusing on the USA
 
 Before starting the analysis, we had to find a relevant way to answer our research questions. Many countries having only a handful reviews, we decided to focus on the one providing us the most: the USA. Another interesting point about the USA is that it is split statewise, which provide us much more detail about the internal consumption and allows us to be more precise.
-
+{ % include_relative ./plotly_example.html % } 
 ADD NUMBERS IN THE TEXT
 INSERT WORLWIDE DISTRIBUTION OF REVIEWS
 

@@ -36,6 +36,9 @@ ADD NUMBERS IN THE TEXT
 INSERT WORLWIDE DISTRIBUTION OF BREWERIES
 
 ## Distance between brewing's and drinking's place
+The first idea is to look the distribution of beers from local, national and foreign breweries, we see here that the evolution is in favor of local breweries: 
+
+![image](https://github.com/user-attachments/assets/b8d63f5b-1919-41c7-81c9-9893cdb4f5e4)
 
 We begun by taking a statewise distribution of the reviews. We then separated all reviews into three categories:
 - Local reviews: reviews about a beer originating from the same state
@@ -65,6 +68,9 @@ Another factor that could partly explain the more local consumption of beers in 
 [EXPLAIN IF THERE IS A CORRELATION OR NOT?]
 
 ### Effect of patriotism on local consumption
+Does patriotism affect local beer consumption? Maybe US patriots have a tendency to consume more national beers than the others, below we see a plot of the evolution of the patriotic feeling in the US.
+
+[PLOT PATRIOTIC FEELING]
 
 ### Evolution of breweries' number
 In the original dataset, we have acces to the breweries names and location, this allows us to determine the evolution of number of active breweries in each US state. By looking at the plot below, we notice that there is a [AAAAAAAAAAAAAAAAAAAA] of local breweries.

@@ -6,7 +6,7 @@ subtitle: A study of the evolution of the distance bewteen the place of producti
 
 ## Introduction
 
-Have you ever paid attention to where the beers you drink come from? In this period of ecological awareness, we heavily favours taking the public transportation over a private car, pay attention to the origin of the food we buy, and so on. However, this trend doesn't seem to have any impact on beers. As en example, out of the 74 beers available at EPFL's Satellite, only 19 come from Switzerland. In this datastory, we are going to take you on a journey to find out wether we actually do not care where our beers come from.
+Have you ever paid attention to where the beers you drink come from? In this period of ecological awareness, we heavily favours taking the public transportation over a private car, pay attention to the origin of the food we buy, and so on. However, this trend doesn't seem to have any impact on beers. For example, out of the 74 beers available at EPFL's Satellite, only 19 come from Switzerland. In this datastory, we are going to take you on a journey to find out wether we actually do not care where our beers come from.
 
 TALK ABOUT ASSUMPTIONS
 

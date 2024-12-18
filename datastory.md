@@ -36,7 +36,8 @@ ADD NUMBERS IN THE TEXT
 INSERT WORLWIDE DISTRIBUTION OF BREWERIES
 
 ## Distance between brewing's and drinking's place
-The first idea is to look the distribution of beers from local, national and foreign breweries, we see here that the evolution is in favor of local breweries: 
+The first idea is to look the distribution of beers from local, national and foreign breweries, we see here that the evolution is in favor of local breweries:
+
 {% include_relative plotly_example.html %}
 
 We begun by taking a statewise distribution of the reviews. We then separated all reviews into three categories:

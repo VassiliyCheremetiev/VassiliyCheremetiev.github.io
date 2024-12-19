@@ -56,6 +56,10 @@ We can see an almost perfect linear diminution of the foreign review portion (IN
 
 INSERT PLOT
 
+We created an adjacency matrix to illustrate how beers from each state are reviewed across the United States. Each row shows how frequently beers from a given state are reviewed by drinkers in other states. Two clear patterns emerge: first, beers tend to be most popular within their own state, as indicated by the prominent diagonal values. Secondly, a small number of states have a broad national presence. Notably, California and Colorado stand out, with their beers receiving significant attention across the country, as evidenced by their strong horizontal lines.
+
+INSERT PLOT 
+
 The average distance is also following this trend, with a tendency to be reduced with time. We can see two large outliers: Alaska and Hawaï. This is no suprise, as they are quite far away from all other american state and the beers would have to travel a long distance from the continental USA to reach them.
 
 ## Why does the average distance travaled by beers decrease?
@@ -73,7 +77,7 @@ Does patriotism affect local beer consumption? Maybe US patriots have a tendency
 [PLOT PATRIOTIC FEELING]
 
 ### Evolution of breweries' number
-In the original dataset, we have acces to the breweries names and location, this allows us to determine the evolution of number of active breweries in each US state. By looking at the plot below, we notice that there is a [AAAAAAAAAAAAAAAAAAAA] of local breweries.
+In the original dataset, we have acces to the breweries names and location, this allows us to determine the evolution of number of active breweries in each US state. By looking at the plot below, we notice that there is a [AAAAAAAAAAAAAAAAAAAA] of local breweries. 
 
 [INSERT PLOT OF LOCAL BREWERIES NUMBER PER YEAR OR MONTH]
 
